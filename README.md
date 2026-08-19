@@ -18,5 +18,5 @@ Languages & Backend
 Mobile & Web Development
 
 📊 GitHub Stats
-📫 Connect with Me 
+📫 Connect with Me : codexali@atomicmail.com
 “Code is like humor. When you have to explain it, it’s bad.”
