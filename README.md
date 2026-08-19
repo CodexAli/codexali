@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there, I'm CodexAli 👋
 
-<!--
-**CodexAli/codexali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```python
+class Developer:
+    def __init__(self):
+        self.username = "CodexAli"
+        self.role = "Software Developer"
+        self.focus = ["Android Development", "Web Development", "Web Design"]
+        self.languages = ["Python", "Java", "JavaScript"]
+    
+    def get_goal(self):
+        return "Building high-performance apps, modern websites, and clean digital solutions."
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+me = Developer()
