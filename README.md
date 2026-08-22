@@ -1,9 +1,10 @@
-# Hi there, I'm CodexAli 👋
+Markdown
+# Hi there, I'm AlioHub 👋
 
 ```python
 class Developer:
     def __init__(self):
-        self.username = "CodexAli"
+        self.username = "AlioHub"
         self.role = "Software Developer"
         self.focus = ["Android Development", "Web Development", "Web Design"]
         self.languages = ["Kotlin", "Java", "Python", "JavaScript"]
@@ -18,5 +19,5 @@ Languages & Backend
 Mobile & Web Development
 
 📊 GitHub Stats
-📫 Connect with Me : codexali@atomicmail.io
+📫 Connect with Me
 “Code is like humor. When you have to explain it, it’s bad.”
